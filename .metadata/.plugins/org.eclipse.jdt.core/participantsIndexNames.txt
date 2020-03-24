@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-D:\inderjeet\aashiwad collection\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1233803060.index
-\aashirwad\src\main\resources
